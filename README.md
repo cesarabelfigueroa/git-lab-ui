@@ -7,6 +7,9 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
+Remember run npm/yarn start into the backend folder fist: https://github.com/cesarabelfigueroa/git-lab-server
+
+
 yarn serve
 ```
 
